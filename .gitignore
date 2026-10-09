@@ -1,0 +1,31 @@
+# === Scrapy Specifics ===
+.scrapy/
+*.csv
+*.json
+*.xml
+
+# === Python Compiled Files ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# === Virtual Environments ===
+.env
+.venv
+env/
+venv/
+ENV/
+
+# === IDEs and Editors ===
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# === Operating System Files ===
+.DS_Store
+Thumbs.db
